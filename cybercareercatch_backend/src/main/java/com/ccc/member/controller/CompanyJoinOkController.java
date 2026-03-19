@@ -15,8 +15,8 @@ public class CompanyJoinOkController implements Execute {
 	public Result execute(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		
-		return null;
+		Result result = new Result();
+		return result;
 	}
 
 }
